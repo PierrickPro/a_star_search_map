@@ -6,7 +6,7 @@ Each road has a different cost, depending on the locations arround.</br>
 Using an A* heuristic search algorithm, the path with the lowest cost between any two points is calculated.</br>
 The heursitic is calculated using Manhattan distance.</br>
 </br>
-The networkx and matplotlib libraries were used to generate and display the map.
+The networkx and matplotlib libraries were used to display the map.
 
 ## Rules
 Edges are roads, cells are locations.</br>
@@ -26,5 +26,7 @@ Start = O, Goal = U</br>
 path found = ONMRQVU</br>
 O: h = 6</br>
 Total Cost =  7.0
+
+### matplotlib map:
 
 ![alt text](https://github.com/PierrickPro/a_star_search_map/blob/main/example.png?raw=true)
