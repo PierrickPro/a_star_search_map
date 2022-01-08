@@ -30,6 +30,4 @@ path found = ONMRQVU</br>
 O: h = 6</br>
 Total Cost =  7.0
 
-### matplotlib map:
-
 ![alt text](https://github.com/PierrickPro/a_star_search_map/blob/main/example.png?raw=true)
