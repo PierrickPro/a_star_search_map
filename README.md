@@ -4,7 +4,7 @@ Generates a map, with vaccine centers (Vx), quarantine places (Qx) and playgroun
 Each road has a different cost, depending on the locations arround.</br>
 </br>
 Using an A* heuristic search algorithm, the path with the lowest cost between any two points is calculated.</br>
-The heursitic is calculated using Manhattan distance.</br>
+The heuristic function is calculated using Manhattan distance.</br>
 </br>
 The networkx and matplotlib libraries were used to display the map.
 
