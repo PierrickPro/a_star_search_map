@@ -9,6 +9,9 @@ The heursitic is calculated using Manhattan distance.</br>
 The networkx and matplotlib libraries were used to display the map.
 
 ## Rules
+
+![alt text](https://github.com/PierrickPro/a_star_search_map/blob/main/empty_map.png?raw=true)
+
 Edges are roads, cells are locations.</br>
 </br>
 Each location has a cost:</br>
